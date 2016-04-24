@@ -10,7 +10,7 @@
         <Image Source="images/apriori2.png" Margin="302,12,37.4,245.8"/>
         <Button Click="Select_path" VerticalAlignment="Top" HorizontalAlignment="Left" Height="36" Width="150" 
                 Margin="147,27,0,0" Content="Select csv file" Background="CornflowerBlue"/>
-        <TextBlock Text="Max support" Margin="25,90,376.4,195.8"/>
+        <TextBlock Text="Min support" Margin="25,90,376.4,195.8"/>
         <TextBox Name="TextBox" Height="30" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="147,87,0,0" Width="150"/>
         <Label Name="Label" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="17" Height="30" Margin="25,130,0,0" Width="124"></Label>
         <Button Name="Buttonstart" Height="30" Width="150" Margin="0,87,49.4,0" Content="Start" Background="CornflowerBlue"
