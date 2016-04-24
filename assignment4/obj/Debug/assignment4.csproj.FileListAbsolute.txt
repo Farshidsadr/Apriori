@@ -1,0 +1,26 @@
+c:\users\farshid\documents\visual studio 2012\Projects\assignment4\assignment4\bin\Debug\assignment4.exe.config
+c:\users\farshid\documents\visual studio 2012\Projects\assignment4\assignment4\bin\Debug\assignment4.exe
+c:\users\farshid\documents\visual studio 2012\Projects\assignment4\assignment4\bin\Debug\assignment4.pdb
+c:\users\farshid\documents\visual studio 2012\Projects\assignment4\assignment4\obj\Debug\assignment4.csprojResolveAssemblyReference.cache
+c:\users\farshid\documents\visual studio 2012\Projects\assignment4\assignment4\obj\Debug\MainWindow.baml
+c:\users\farshid\documents\visual studio 2012\Projects\assignment4\assignment4\obj\Debug\MainWindow.g.cs
+c:\users\farshid\documents\visual studio 2012\Projects\assignment4\assignment4\obj\Debug\App.g.cs
+c:\users\farshid\documents\visual studio 2012\Projects\assignment4\assignment4\obj\Debug\assignment4_MarkupCompile.cache
+c:\users\farshid\documents\visual studio 2012\Projects\assignment4\assignment4\obj\Debug\assignment4.g.resources
+c:\users\farshid\documents\visual studio 2012\Projects\assignment4\assignment4\obj\Debug\assignment4.Properties.Resources.resources
+c:\users\farshid\documents\visual studio 2012\Projects\assignment4\assignment4\obj\Debug\assignment4.csproj.GenerateResource.Cache
+c:\users\farshid\documents\visual studio 2012\Projects\assignment4\assignment4\obj\Debug\assignment4.exe
+c:\users\farshid\documents\visual studio 2012\Projects\assignment4\assignment4\obj\Debug\assignment4.pdb
+C:\Users\Farshid\Desktop\ass4\assignment4\assignment4\bin\Debug\assignment4.exe.config
+C:\Users\Farshid\Desktop\ass4\assignment4\assignment4\obj\Debug\assignment4.exe
+C:\Users\Farshid\Desktop\ass4\assignment4\assignment4\obj\Debug\assignment4.pdb
+C:\Users\Farshid\Desktop\ass4\assignment4\assignment4\bin\Debug\assignment4.exe
+C:\Users\Farshid\Desktop\ass4\assignment4\assignment4\bin\Debug\assignment4.pdb
+C:\Users\Farshid\Desktop\ass4\assignment4\assignment4\obj\Debug\assignment4.csprojResolveAssemblyReference.cache
+C:\Users\Farshid\Desktop\ass4\assignment4\assignment4\obj\Debug\MainWindow.baml
+C:\Users\Farshid\Desktop\ass4\assignment4\assignment4\obj\Debug\MainWindow.g.cs
+C:\Users\Farshid\Desktop\ass4\assignment4\assignment4\obj\Debug\App.g.cs
+C:\Users\Farshid\Desktop\ass4\assignment4\assignment4\obj\Debug\assignment4_MarkupCompile.cache
+C:\Users\Farshid\Desktop\ass4\assignment4\assignment4\obj\Debug\assignment4.g.resources
+C:\Users\Farshid\Desktop\ass4\assignment4\assignment4\obj\Debug\assignment4.Properties.Resources.resources
+C:\Users\Farshid\Desktop\ass4\assignment4\assignment4\obj\Debug\assignment4.csproj.GenerateResource.Cache

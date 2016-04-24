@@ -1,0 +1,25 @@
+﻿<Window x:Class="assignment4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Apriori" Height="350" Width="525" FontFamily="Times new roman" FontSize="20" ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen" Closed="MainWindow_OnClosed">
+    <Window.Icon>
+        <BitmapImage UriSource="images/y (2).png"></BitmapImage>
+    </Window.Icon>
+    <Grid Background="WhiteSmoke">
+        <Image Source="images/apriori2.png" Margin="302,12,37.4,245.8"/>
+        <Button Click="Select_path" VerticalAlignment="Top" HorizontalAlignment="Left" Height="36" Width="150" 
+                Margin="147,27,0,0" Content="Select csv file" Background="CornflowerBlue"/>
+        <TextBlock Text="Max support" Margin="25,90,376.4,195.8"/>
+        <TextBox Name="TextBox" Height="30" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="147,87,0,0" Width="150"/>
+        <Label Name="Label" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="17" Height="30" Margin="25,130,0,0" Width="124"></Label>
+        <Button Name="Buttonstart" Height="30" Width="150" Margin="0,87,49.4,0" Content="Start" Background="CornflowerBlue"
+                HorizontalAlignment="Right" VerticalAlignment="Top" Click="Buttonstart_Click"></Button>
+        <DataGrid Name="DataGrid" CanUserAddRows="False" AutoGenerateColumns="True" HorizontalAlignment="Left" Margin="25,175,0,0"
+                  VerticalAlignment="Top" Height="136" Width="450">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding}" Header="ItemSet" Width="300"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
